@@ -6,7 +6,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Alissonsleal?tab=repositories](https://github.com/Alissonsleal?tab=repositories)
 - 💬 Ask me about **Javascript, React Native or UX/UI**
 - 👯 I’m looking to collaborate on other React Native Apps
-- 🤔 I’m looking for help with ...
 - ⚡ Fun fact: I have a bunch of hobbies(Programming, Fixing PCs, Sim Racing/MotorSports, Fantasy Football, Gaming, Chess and other random stuff)
 
 
