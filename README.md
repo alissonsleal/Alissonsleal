@@ -1,10 +1,10 @@
 ### Hi there 👋, You can call me Alisson or Ali
 
 
-- 🔭 I’m currently working on [Reddit-API-to-JSON](https://github.com/Alissonsleal/Reddit-API-to-JSON)
+- 🔭 I’m currently working on [Twitch UI Clone](https://github.com/Alissonsleal/TwitchUIClone)
 - 🌱 I’m currently learning **Javascript, React, React Native and Node.js**
 - 👨‍💻 All of my projects are available at [https://github.com/Alissonsleal?tab=repositories](https://github.com/Alissonsleal?tab=repositories)
-- 💬 Ask me about **Javascript, React Native or UX/UI**
+- 💬 Ask me about **Javascript, React Native, UX/UI** or motorsports and gaming
 - 👯 I’m looking to collaborate on other React Native Apps
 - ⚡ Fun fact: I have a bunch of hobbies(Programming, Fixing PCs, Sim Racing/MotorSports, Fantasy Football, Gaming, Chess and other random stuff)
 
