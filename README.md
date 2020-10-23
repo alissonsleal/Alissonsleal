@@ -1,15 +1,16 @@
 ### Hi there 👋, You can call me Alisson or Ali
 
 
-- 🔭 I’m currently working on [Twitch UI Clone](https://github.com/Alissonsleal/TwitchUIClone)
-- 🌱 I’m currently learning **Javascript, React, React Native and Node.js**
+- 🔭 I’m currently working on: [Happy](https://github.com/Alissonsleal/Happy), [Prime Video UI Clone](https://github.com/Alissonsleal/PrimeVideoUIClone) and [Twitch UI Clone](https://github.com/Alissonsleal/TwitchUIClone)
+- 🌱 I’m currently learning **Typescript, React, React Native and Node.js**
 - 👨‍💻 All of my projects are available at [https://github.com/Alissonsleal?tab=repositories](https://github.com/Alissonsleal?tab=repositories)
-- 💬 Ask me about **Javascript, React Native, UX/UI** or motorsports and gaming
+- 💬 Ask me about **Typescript/Javascript, React Native, UX/UI** or motorsports and gaming
 - 👯 I’m looking to collaborate on other React Native Apps
-- ⚡ Fun fact: I have a bunch of hobbies(Programming, Fixing PCs, Sim Racing/MotorSports, Fantasy Football, Gaming, Chess and other random stuff)
+- ⚡ Fun fact: I have a bunch of random hobbies(Programming, Fixing PCs, Sim Racing/MotorSports, Fantasy Football, Gaming, Chess and other random stuff)
 
 
 <p align="center">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
