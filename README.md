@@ -1,7 +1,7 @@
 ### Hi there 👋, You can call me Alisson or Ali
 
 
-- 🔭 I’m currently working on: [Consulta Placa](https://github.com/Alissonsleal/consulta-placa), [Twitch Sub Vod](https://github.com/Alissonsleal/TwitchSubVod) and [Happy](https://github.com/Alissonsleal/Happy)
+- 🔭 I’m currently working on: [Consulta Placa](https://github.com/Alissonsleal/consulta-placa) and [Twitch Sub Vod](https://github.com/Alissonsleal/TwitchSubVod)
 - 🌱 I’m currently learning **Typescript, React, React Native and Node.js**
 - 👨‍💻 All of my projects are available at [https://github.com/Alissonsleal?tab=repositories](https://github.com/Alissonsleal?tab=repositories)
 - 💬 Ask me about **Typescript/Javascript, React Native, UX/UI** or motorsports and gaming
