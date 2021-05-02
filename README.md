@@ -7,6 +7,7 @@
 - 💬 Ask me about **Typescript, React, Next, React Native, UX/UI** or motorsports and gaming
 - 👯 I’m looking to collaborate on other React Apps
 - ⚡ Fun fact: I have a lot of hobbies(Sim Racing/MotorSports, Fantasy Soccer, Gaming, Chess, Twitch...)
+- [@alisson-provi is my work github profile :)](https://github.com/alisson-provi)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
