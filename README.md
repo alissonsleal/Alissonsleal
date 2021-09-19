@@ -1,10 +1,10 @@
 ### Hi there 👋, You can call me Alisson or Ali
 
-- 💻 I’m currently a Frontend Developer at [Provi](https://provi.com.br/)
-- 🔭 I’m currently working on: [brapi](https://brapi.ga/) and [PogU.live](https://pogu.live)
-- 🌱 I love to work with **Typescript, Next.JS, React Native and Node.js**
-- 👨‍💻 All of my projects are available at [https://github.com/Alissonsleal?tab=repositories](https://github.com/Alissonsleal?tab=repositories)
-- 💬 Ask me about **Typescript, React, Next, React Native, UX/UI** or motorsports and gaming
+- 💻 I’m currently a Frontend Developer at [Provi](https://site.provi.com.br/)
+- 🔭 I’m currently working on: [pogu.live](https://pogu.live), [brapi](https://brapi.ga/) and [plann.xyz](https://plann.xyz)
+- 🚀 Together all of my side projects have over 40k monthly active users
+- 🌱 I love to work with **Typescript, Next.JS and Node.js**
+- 💬 Ask me about **Typescript, React, Next.JS, React Native, UX/UI** or motorsports and gaming
 - 👯 I’m looking to collaborate on other React Apps
 - ⚡ Fun fact: I have a lot of hobbies(Sim Racing/MotorSports, Fantasy Soccer, Gaming, Chess, Twitch...)
 - [@alisson-provi is my work github profile :)](https://github.com/alisson-provi)
