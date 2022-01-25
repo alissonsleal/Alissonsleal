@@ -2,7 +2,7 @@
 
 - 💻 I’m currently a Frontend Developer at [Provi](https://site.provi.com.br/)
 - 🔭 I’m currently working on: [pogu.live](https://pogu.live), [brapi](https://brapi.ga/) and [plann.xyz](https://plann.xyz)
-- 🚀 Together all of my side projects have over 40k monthly active users
+- 🚀 Together all of my side projects have over 300k monthly active users
 - 🌱 I love to work with **Typescript, Next.JS and Node.js**
 - 💬 Ask me about **Typescript, React, Next.JS, React Native, UX/UI** or motorsports and gaming
 - 👯 I’m looking to collaborate on other React Apps
