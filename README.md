@@ -1,11 +1,9 @@
 ### Hi there 👋, You can call me Alisson or Ali
 
-- 💻 I’m currently a Frontend Developer at [Provi](https://provi.com.br/)
-- 🔭 I’m currently working on: [brapi](https://brapi.ga/) and [plann.xyz](https://plann.xyz)
-- 🚀 Together all of my side projects have over 400k monthly active users
+- 💻 I’m currently a Full Stack Engineer at [Provi](https://provi.com.br/)
+- 🔭 I’m currently growing [brapi](https://brapi.dev/)
 - 🌱 I love to work with **Typescript, Next.JS and Node.js**
 - 💬 Ask me about **Next.JS, Typescript, React, UX/UI**
-- 👯 I’m looking to collaborate on other React Apps
 - ⚡ Fun fact: I have a lot of hobbies(Sim Racing/MotorSports, Fantasy Soccer, Gaming, Chess, Twitch...)
 - [@alisson-provi is my work github profile :)](https://github.com/alisson-provi)
 
